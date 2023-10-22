@@ -25,7 +25,7 @@ I'm proficient with various technologies and always eager to learn new ones. Som
 
 I currently am not participating in any public repositories, but if I do, you will find a link here.
 
-Feel free to explore more in my [GitHub repositories](https://github.com/BallsyBread).
+Feel free to explore more in my [GitHub repositories](https://github.com/BallsyBread?tab=repositories).
 
 ## 📚 Learning
 

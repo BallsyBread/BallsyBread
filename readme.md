@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-![Coding](https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif)
+![Coding](https://raw.githubusercontent.com/BallsyBread/BallsyBread/main/vscode-logo_animated.gif)
 
 I'm a passionate programming enthusiast, and I love to explore the depths of the digital world. Here, you'll find a glimpse of my coding journey, my projects, and a bit about who I am.
 
